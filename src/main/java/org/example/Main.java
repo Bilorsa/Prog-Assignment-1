@@ -72,7 +72,7 @@ public class Main {
                         scanner.close();
                         return;
 
-                        //If user prompts wrong display this message
+                        //If user prompts wrong display this message.
                     default:
                         System.out.println("Invalid option. Please try again.");
                 }
